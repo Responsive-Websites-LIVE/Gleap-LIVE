@@ -826,7 +826,7 @@ h3 {
   color: #59617d;
 }
 .tools__container {
-  background: url(../../img/pages/tools/toolsback.png) center/100% no-repeat;
+  background: url(../img/pages/tools/toolsback.png) center/100% no-repeat;
 }
 .tools__body {
   padding: 242px 0 122px 0;
@@ -1402,7 +1402,7 @@ h3 {
 }
 @media screen and (max-width: 646px) {
   .tools__container {
-    background: url(../../img/pages/tools/toolsback.png) center/0 no-repeat;
+    background: url(../img/pages/tools/toolsback.png) center/0 no-repeat;
   }
   .tools__body {
     padding: 30px 0 20px 0;
@@ -1529,7 +1529,7 @@ h3 {
   background: url(../img/pages/features/backgroundFirst.webp) center/600px 670px no-repeat;
 }
 .webp .tools__container {
-  background: url(../../img/pages/tools/toolsback.webp) center/100% no-repeat;
+  background: url(../img/pages/tools/toolsback.webp) center/100% no-repeat;
 }
 @media screen and (max-width: 1261px) {
   .webp .item-feature-second {
@@ -1553,6 +1553,6 @@ h3 {
 }
 @media screen and (max-width: 646px) {
   .webp .tools__container {
-    background: url(../../img/pages/tools/toolsback.webp) center/0 no-repeat;
+    background: url(../img/pages/tools/toolsback.webp) center/0 no-repeat;
   }
 }
